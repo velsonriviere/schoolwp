@@ -1,0 +1,7 @@
+.post-item {
+  border-bottom: 1px dotted #DEDEDE;
+  padding-bottom: 1.7rem;
+  margin-bottom: 1.7rem; }
+  .post-item:last-of-type {
+    border-bottom: none;
+    margin-bottom: 0; }
